@@ -47,7 +47,6 @@ Smart-PG-Management-System/
 ├── pg.py
 ├── README.md
 ├── Smart_PG_Project_Report.pdf
-└── screenshots/
 ```
 
 ---
